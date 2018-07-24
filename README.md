@@ -1,4 +1,5 @@
-To launch sample-server.js
+Launch sample-server.js
+
 1. `echo YOUR_BING_SPEECH_API_KEY > speech.key`
 
 2. `npm install`
@@ -7,4 +8,6 @@ To launch sample-server.js
     `node sample-server.js`.
     * The server and the client are on different subnets, server is not accessible from the outside:
     `node sample-server.js enableTunnel` 
-# subiff.ai
+    
+# Microsoft Discover Azure
+## subiff.ai
