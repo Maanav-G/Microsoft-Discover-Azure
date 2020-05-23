@@ -1,5 +1,6 @@
-# Microsoft Discover Azure
-## subiff.ai
+# subiff.ai
+##### A speech-to-text platform designeed for the Microsoft Discover Azure case competition
+##### Placed 2nd
 
 Launch sample-server.js
 
@@ -11,4 +12,6 @@ Launch sample-server.js
     `node sample-server.js`.
     * The server and the client are on different subnets, server is not accessible from the outside:
     `node sample-server.js enableTunnel` 
+    
    
+
